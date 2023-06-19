@@ -1,5 +1,5 @@
 # Django_React-Project--Jobs-APP
-
+news
 This is Full Stack App made with Django as Backend and React as Frontend.
 
 In this user can do all CRUD activities with Jobs.
